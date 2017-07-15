@@ -1,0 +1,7 @@
+main: fr.sywoo.customsettings.Main
+version: 1.0
+name: ASBCustomSettings
+author: Sywoo
+website: https://www.scopegames.fr/
+description: Plugin for Askyblock to gest yours islands settings better
+depends: [AskyBlock, Vault]
